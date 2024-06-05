@@ -44,25 +44,25 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAnZl9LW8STKinup3t_O2GM0aSVkbldxgg',
-    appId: '1:960161485509:web:c1875014806618827456ac',
-    messagingSenderId: '960161485509',
+    apiKey: 'xxx',
+    appId: 'xxx',
+    messagingSenderId: 'xxx',
     projectId: 'flutter-chat-app-67253',
     authDomain: 'flutter-chat-app-67253.firebaseapp.com',
     storageBucket: 'flutter-chat-app-67253.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDuDzIXrqITzGK2zL2DqCj_l1r9OuTcVLY',
-    appId: '1:960161485509:android:ad77e41b1e825f1f7456ac',
-    messagingSenderId: '960161485509',
+    apiKey: 'xxx',
+    appId: 'xxxc',
+    messagingSenderId: 'xxx',
     projectId: 'flutter-chat-app-67253',
     storageBucket: 'flutter-chat-app-67253.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC_REWJJEXllm8sy8DK_6vbG-QUSLRucok',
-    appId: '1:960161485509:ios:607cf6bd901e336e7456ac',
+    apiKey: 'xxx',
+    appId: 'xxx',
     messagingSenderId: '960161485509',
     projectId: 'flutter-chat-app-67253',
     storageBucket: 'flutter-chat-app-67253.appspot.com',
@@ -70,8 +70,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC_REWJJEXllm8sy8DK_6vbG-QUSLRucok',
-    appId: '1:960161485509:ios:7487c78975d246287456ac',
+    apiKey: 'xxxk',
+    appId: 'xxx',
     messagingSenderId: '960161485509',
     projectId: 'flutter-chat-app-67253',
     storageBucket: 'flutter-chat-app-67253.appspot.com',
